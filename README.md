@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Bioscope**
 
-- 🌱 I’m currently learning **React with type script**
+- 🌱 I’m currently learning **React with TS**
 
 - 👨‍💻 All of my projects are available at [ComingSoon](ComingSoon)
 
-- 📫 How to reach me **Paul3.tisserant@gmail.com**
+- 📫 How to reach me **paul3.tisserant@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
