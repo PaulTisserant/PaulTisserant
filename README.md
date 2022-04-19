@@ -25,5 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paultisserant&theme=dark" alt="paultisserant" /></p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=9yvvy6kfb4hirptpof4zd4wcu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=9yvvy6kfb4hirptpof4zd4wcu&cover_image=true&theme=compact)]]
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=9yvvy6kfb4hirptpof4zd4wcu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=9yvvy6kfb4hirptpof4zd4wcu&cover_image=false&theme=compact)]]
 
