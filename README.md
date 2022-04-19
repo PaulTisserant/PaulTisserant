@@ -72,7 +72,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://instagram.com/paul_tisserant" target="_blank">
