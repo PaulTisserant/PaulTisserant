@@ -1,6 +1,9 @@
 ### <div align="center">Hi 👋, I'm Paul an apprentice frontend and backend developper</div>  
   
 
+
+
+
 - 🔭 I’m currently working on Bioscope  
   
 
