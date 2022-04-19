@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Paul an apprentice frontend and backend developper</div>  
   
 
-
+<br/>
 
 
 - 🔭 I’m currently working on Bioscope  
@@ -87,10 +87,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PaulTisserant&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -100,9 +98,6 @@
 <br/>  
  
 
-
-
-### What I listen to when I'm coding  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=9yvvy6kfb4hirptpof4zd4wcu&cover_image=true&theme=default&bar_color=ea640b&bar_color_cover=false" /></div>  
 
 <br/>  
