@@ -91,20 +91,12 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PaulTisserant&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paultisserant&show_icons=true&theme=dark&locale=en&layout=compact" alt="paultisserant" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulTisserant&hide_border=true&layout=compact" align="left" />  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paultisserant&show_icons=true&theme=dark&locale=en" alt="paultisserant" /></p>
 
-<br/>  
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paultisserant&theme=dark" alt="paultisserant" /></p>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=9yvvy6kfb4hirptpof4zd4wcu&cover_image=true&theme=default&bar_color=ea640b&bar_color_cover=false" style="backgroud-color = black" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=PaulTisserant&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
