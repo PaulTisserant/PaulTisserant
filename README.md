@@ -106,7 +106,11 @@
 
 ## What I listen to
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=9yvvy6kfb4hirptpof4zd4wcu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=9yvvy6kfb4hirptpof4zd4wcu&cover_image=false&theme=default)]]
+
+
+
+
+<img src=https://spotify-github-profile.vercel.app/api/view.svg?uid=9yvvy6kfb4hirptpof4zd4wcu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=9yvvy6kfb4hirptpof4zd4wcu&cover_image=false&theme=default />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
