@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning React and TS  
   
 
-* 💻 See all my work here Coming Soon  
+* 💻 See all my work here https://paultisserant.github.io/test/ 
+* [I'm an inline-style link with title](https://www.google.com "Google's Homepage") 
   
 
 <br/>  
