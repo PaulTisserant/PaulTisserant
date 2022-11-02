@@ -4,10 +4,10 @@
 <br/>
 
 
-- 🔭 I’m currently working on Bioscope  
+- 🔭 I’m currently working on my portfolio  
   
 
-- 🌱 I’m currently learning React and TS  
+- 🌱 I’m currently learning React three fiber  
   
 
 * 💻 See all my work here [Portfolio](https://paultisserant.github.io/test/) 
