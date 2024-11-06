@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋, I'm Paul an apprentice frontend and backend developper</div>  
+### <div align="center">Hi 👋, I'm Paul a full stack engineer</div>  
   
 
 <br/>
