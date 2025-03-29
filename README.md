@@ -7,7 +7,7 @@
 - 🔭 I’m currently working for [Moustache Bikes](https://moustachebikes.com/) 
   
 
-- 🌱 I’m currently learning React three fiber  
+- 🌱 I’m currently learning devops
   
 
 <br/>  
